@@ -303,7 +303,7 @@ teamcostco
 
 | 정보 확인 |
 |------|
-| <img src="" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/2_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.gif?raw=true" width="900" height="600"/> |
 
 ## 재고 관리 페이지
 
@@ -362,7 +362,7 @@ teamcostco
 
 | 불량 재고 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/9_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%99%95%EC%9D%B8.png?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/8_%EB%B6%88%EB%9F%89%20%EC%9E%AC%EA%B3%A0%20%ED%99%95%EC%9D%B8.gif?raw=true" width="900" height="600"/> |
 
 ## 배송 현황 페이지
 
@@ -372,7 +372,7 @@ teamcostco
 
 | 배송 현황 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/9_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%99%95%EC%9D%B8.png?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/9_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%99%95%EC%9D%B8.gif?raw=true" width="900" height="600"/> |
 
 ## 판매 내역 페이지
 
@@ -382,7 +382,7 @@ teamcostco
 
 | 판매 내역 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/10_%ED%8C%90%EB%A7%A4%20%EB%82%B4%EC%97%AD%20%ED%99%95%EC%9D%B8.png?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/10_%ED%8C%90%EB%A7%A4%20%EB%82%B4%EC%97%AD%20%ED%99%95%EC%9D%B8.gif?raw=true" width="900" height="600"/> |
 
 ## 직원 관리 페이지
 
