@@ -1,6 +1,6 @@
 # 📦 TeamCostco SYSTEM README
 
-<img src="https://github.com/gopo543/Exam/blob/develop/%EB%AC%BC%EB%A5%98%20%ED%9A%8C%EC%82%AC_.jpg?raw=true" width="500" height="400"/> 
+<img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/%EB%AC%BC%EB%A5%98%20%ED%9A%8C%EC%82%AC_.jpg?raw=true" width="500" height="400"/> 
 
 - 배포 URL : 
 - Test ID : test  
@@ -293,7 +293,7 @@ teamcostco
 
 | 로그인 |
 |--------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/1_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/1_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true" width="900" height="600"/> |
 
 ## 대시보드 페이지
 
@@ -314,7 +314,7 @@ teamcostco
 
 | 필터 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/4_%EC%9E%AC%EA%B3%A0%20%EA%B4%80%EB%A6%AC%20%ED%95%84%ED%84%B0%20%EC%A0%81%EC%9A%A9.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/3_%EC%9E%AC%EA%B3%A0%20%EA%B4%80%EB%A6%AC%20%ED%95%84%ED%84%B0%20%EC%A0%81%EC%9A%A9.gif?raw=true" width="900" height="600"/> |
 
 ### [재고 정보 수정]
 - 사용자가 원하는 재고의 제품명, 제품 분류, 브랜드, 구매 / 판매가, 할인율 등을
@@ -323,29 +323,27 @@ teamcostco
 
 | 재고 정보 수정 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/4_%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/4_%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.gif?raw=true" width="900" height="600"/> |
 
 ## 상품 발주 페이지
 
 ### [상품 발주]
-- 사용자 이름 혹은 계정 ID로 유저를 검색할 수 있습니다. (예시)
-- 검색어와 일치하는 단어는 파란색 글씨로 표시됩니다. (예시)
-- 클릭 시 해당 유저의 프로필 페이지로 진입합니다. (예시)
+- 사용자 원하는 제품명을 검색 시 상품의 이미지, 코드, 품명, 가격, 판매처 등과 함께 검색 결과가 나옵니다.
+- 상품 선택과 발주수량 입력 후 발주요청 버튼 클릭 시 간단하게 상품 발주가 완료 됩니다. 
 
 | 상품 발주 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/4_%EC%83%81%ED%92%88%20%EB%B0%9C%EC%A3%BC.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/5_%EC%83%81%ED%92%88%20%EB%B0%9C%EC%A3%BC.gif?raw=true" width="900" height="600"/> |
 
 ## 발주 관리 페이지
 
 ### [발주 관리]
-- 사용자 이름 혹은 계정 ID로 유저를 검색할 수 있습니다. (예시)
-- 검색어와 일치하는 단어는 파란색 글씨로 표시됩니다. (예시)
-- 클릭 시 해당 유저의 프로필 페이지로 진입합니다. (예시)
+- 사용자가 손쉽게 발주된 제품을 불량 재고로 옮기거나 발주 완료 처리를 할 수 있습니다. 
+- 원하는 제품의 정보 탭에서 발주 처리 버튼 클릭시 간단하게 발주 완료 처리가 됩니다.
 
 | 발주 관리 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/5_%EB%B0%9C%EC%A3%BC%20%EC%B2%98%EB%A6%AC.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/6_%EB%B0%9C%EC%A3%BC%20%EC%B2%98%EB%A6%AC.gif?raw=true" width="900" height="600"/> |
 
 ### [발주 관리 필터]
 - 판매처, 주문번호, 주문날짜, 상태, 직원이름 등
@@ -354,7 +352,7 @@ teamcostco
 
 | 발주 관리 필터 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/5_%ED%95%84%ED%84%B0%20%EC%A0%81%EC%9A%A9.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/7_%EB%B0%9C%EC%A3%BC%20%EA%B4%80%EB%A6%AC%20%ED%95%84%ED%84%B0%20%EC%A0%81%EC%9A%A9.gif?raw=true" width="900" height="600"/> |
 
 ## 불량 재고 페이지
 
@@ -364,7 +362,7 @@ teamcostco
 
 | 불량 재고 확인 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/6_%EB%B6%88%EB%9F%89%20%EC%9E%AC%EA%B3%A0%20%ED%8E%98%EC%9D%B4%EC%A7%80_%20%EC%82%AC%EC%A7%84.png?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/9_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%99%95%EC%9D%B8.png?raw=true" width="900" height="600"/> |
 
 ## 배송 현황 페이지
 
@@ -374,7 +372,7 @@ teamcostco
 
 | 배송 현황 확인 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/7_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%8E%98%EC%9D%B4%EC%A7%80%20_%20%EC%82%AC%EC%A7%84.png?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/9_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%99%95%EC%9D%B8.png?raw=true" width="900" height="600"/> |
 
 ## 판매 내역 페이지
 
@@ -384,7 +382,7 @@ teamcostco
 
 | 판매 내역 확인 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/8_%ED%8C%90%EB%A7%A4%20%EB%82%B4%EC%97%AD%20%ED%8E%98%EC%9D%B4%EC%A7%80_%EC%82%AC%EC%A7%84.png?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/10_%ED%8C%90%EB%A7%A4%20%EB%82%B4%EC%97%AD%20%ED%99%95%EC%9D%B8.png?raw=true" width="900" height="600"/> |
 
 ## 직원 관리 페이지
 
@@ -394,7 +392,7 @@ teamcostco
 
 | 직원 정보 수정 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/9_%ED%9A%8C%EC%9B%90%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/11_%EC%A7%81%EC%9B%90%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.gif?raw=true" width="900" height="600"/> |
 
 ## 공지사항 페이지
 
@@ -404,7 +402,7 @@ teamcostco
 
 | 공지사항 글 수정 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/10_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EA%B8%80%20%EC%88%98%EC%A0%95.gif?raw=true" width="900" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/12_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EA%B8%80%20%EC%88%98%EC%A0%95.gif?raw=true" width="900" height="600"/> |
 
 ## 다크모드
 
@@ -415,29 +413,4 @@ teamcostco
 
 | 다크모드 전환 |
 |------|
-| <img src="https://github.com/gopo543/Exam/blob/develop/11_%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C%20%ED%99%9C%EC%84%B1%ED%99%94,%20%EB%B9%84%ED%99%9C%EC%84%B1%20%ED%99%94.gif?raw=true" width="900" height="600"/> |
-
-## 7. 프로젝트 후기
-
-### 📊강동윤
-깃헙을 통한 협업에 익숙해지는 것, 서로 감정 상하지 않고 무사히 마무리하는 것이 1차적인 목표였어서 항상 이 부분을 명심하면서 작업했습니다.  
-각자 페이지를 작업하고 합치는 과정에서 마주친 버그들이 몇 있었는데, 시간에 쫓기느라 해결하기에 급급해서 제대로 트러블슈팅 과정을 기록하지 못한 게 살짝 아쉬운 부분으로 남습니다. 그래도 2022년 한 해 동안 가장 치열하게 살았던 한 달인 것 같습니다. 조원들 모두에게 고생했다고 전하고 싶습니다 (예시)
-
-### ✏️김동민
-여러모로 많은 것들을 배울 수 있었던 한 달이었습니다. 혼자서는 할 수 없었던 일이라는 것을 너무 잘 알기에 팀원들에게 정말 감사하다는 말 전하고 싶습니다. 개인적으로 아쉬웠던 부분은 기한 내에 기능을 구현하는 데에만 집중하면서 트러블 슈팅이나 새로 배웠던 것들을 체계적으로 기록하지 못했다는 점입니다. 이렇게 느낀 바가 있으니 이후의 제가 잘 정리하면서 개발할 거라 믿습니다. (예시)
-
-### 🗂️주형돈
-팀 프로젝트 시작에 앞서 초기 설정을 진행하며 체계적인 설계의 중요성을 느꼈습니다. 앞으로는 점점 더 체계적이고 효율적으로 프로젝트를 진행할 수 있도록 발전하고 싶습니다.  
-정규 수업 직후에 프로젝트를 진행하면서 배운 내용을 직접 구현하는 과정이 어색했지만 어떤 부분이 부족한지 알 수 있는 기회였습니다. 스스로 최대한 노력해보고 팀원들과 함께 해결해 나가면서 협업의 장점을 체감할 수 있었습니다. 하지만 빠르게 작업을 진행하면서 팀원들과 함께 해결한 이슈가 어떤 이슈이며 어떻게 해결했는지에 대해 자세히 작성하지 못한 것이 아쉽습니다.  
-’멋쟁이 사자처럼’이라는 같은 목표를 가진 집단에서 프로젝트에 함께할 수 있는 소중한 경험이었습니다. 함께 고생한 조원들 모두 고생하셨습니다! 앞으로도 화이팅해서 함께 목표를 이뤄가고 싶습니다. (예시)
-
-### 🔍김동우
-컨벤션을 정하는 것부터 Readme 파일 작성까지 전 과정을 진행하려니 처음 생각보다 많은 에너지를 썼어요. 좋은 의미로 많이 썼다기보다, 제 능력을 십분 발휘하지 못해서 아쉬움이 남는 쪽입니다. 개발한다고 개발만 해서는 안 된다는 것을 몸소 느껴보는 기간이었던 것 같습니다. 이번 기회로 프로젝트를 진행하면서, 제가 잘하는 점과 부족한 점을 확실하게 알고 가는 건 정말 좋습니다. 기술적인 부분에 있어서는 리액트의 컴포넌트화가 주는 장점을 알았습니다. 조금 느린 개발이 되었을지라도 코드 가독성 부분에 있어서 좋았고, 오류가 발생해도 전체가 아닌 오류가 난 컴포넌트와 근접한 컴포넌트만 살펴보면 수정할 수 있는 부분이 너무 편했습니다. 모두 고생 참 많으셨고 리팩토링을 통해 더 나은 프로젝트 완성까지 화이팅입니다. (예시)
-
-### 🗒️전상민
-
-### 🤝이신비
-
-### 💼오혜준
-
-### 📅김민수
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/13_%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C%20%EC%A0%84%ED%99%98.gif?raw=true" width="900" height="600"/> |
