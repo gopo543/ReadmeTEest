@@ -1,16 +1,14 @@
-# 📦 TeamCostco SYSTEM README
+# 🛒 TeamCostco Mall README
 
-<img src="https://raw.githubusercontent.com/gopo543/ReadmeTEest/refs/heads/main/readme_image/DALL%C2%B7E%202024-10-02%2010.47.11%20-%20A%20simple%20yet%20elegant%20image%20representing%20a%20logistics%20management%20program.%20Use%20minimalistic%20symbols%20such%20as%20a%20location%20pin%2C%20stacked%20boxes%2C%20and%20a%20delivery.webp" width="500" height="500"/> 
+<img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/card_1379_1.jpg?raw=true" width="700" height="500"/> 
 
-- 배포 URL : http://15.165.19.189
-- Test ID : test  
-- Test PW : 1234
+- 배포 URL : [http://15.165.19.189](http://ezentwix.xyz)
 
 ## 프로젝트 소개
 
-- Costco의 물류 프로세스를 혁신하고 효율성을 극대화하기 위한 종합적인 관리 시스템 개발 프로젝트
-- 실시간 재고관리부터 주문 처리, 데이터 분석, 창고 관리, 간편 발주까지 가능한 시스템
-- 운영 비용 절감과 주문 처리시간 단축, 재고 회전율 개선이 가능한 시스템
+- Costco의 물류 프로세스를 혁신하고 효율성을 극대화하기 위한 종합적인 관리 시스템의 쇼핑몰 개발 프로젝트
+- 실시간 주문과 사용자의 편의를 위한 찜 목록, 장바구니, 주소지 설정까지 모두 간단하게 가능한 쇼핑몰
+- 직관적이며 간단한 ui로 사용자의 쇼핑 시간 단축이 가능하며 남녀노소 사용가능한 쇼핑몰
 
 ## 팀원 구성
 
@@ -25,7 +23,7 @@
 ## 1. 개발 환경
 
 - Front-end : HTML, CSS, JavaScript
-- Back-end : Java, Spring Boot, Naver API, Google Pub/Sub API, Oracle SQL Developer
+- Back-end : Java, Spring Boot, Oracle SQL Developer
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 :  Slack, Notion, Figma
 
@@ -73,29 +71,25 @@ teamcostco
 ├── src
 │    └── main
 │          ├── java
-│          │    ├── config
-│          │    │      ├── BcryptUtils.java
-│          │    │      └── WebSocketConfig.java
-│          │    │
 │          │    ├── controller
-│          │    │      ├── BoardController.java
+│          │    │      ├── CartPageController.java
 │          │    │      ├──    .
 │          │    │      ├──    .
-│          │    │      └── BoardFixController.java
+│          │    │      └── SearchListPageController.java
 │          │    │
 │          │    ├── dto
-│          │    │      ├── category
+│          │    │      ├── Category
 │          │    │      │       ├── CategoryDTO.java
 │          │    │      │       ├──   .
 │          │    │      │       ├──   .
 │          │    │      │       └── CategoryResponse.java
 │          │    │      │
-│          │    │      ├── employee
-│          │    │      │       └── EmployeeDTO.java
+│          │    │      ├── cart
+│          │    │      │       └── CartDTO.java
 │          │    │      ├──    .
 │          │    │      ├──    .
-│          │    │      └── login
-│          │    │              └── LoginRequestDTO.java
+│          │    │      └── inventory
+│          │    │              └── SmallCategoryDTO.java
 │          │    │
 │          │    ├── pagination
 │          │    │      ├── PageDetails.java
@@ -112,10 +106,7 @@ teamcostco
 │          │    │      ├── CategoryService.java
 │          │    │      ├──    .
 │          │    │      ├──    .
-│          │    │      └── JoinService.java
-│          │    │
-│          │    ├── websocket
-│          │    │      └── NotificationHandler.java
+│          │    │      └── ShippingAddressService.java
 │          │    │
 │          │    ├── PageMetadataProvider.java
 │          │    ├── S3Config.java
@@ -124,7 +115,7 @@ teamcostco
 │          │
 │          └── resources
 │               ├── mapper
-│               │      ├── find_mapper.xml
+│               │      ├── cart_mapper.xml
 │               │      ├──    .
 │               │      ├──    .
 │               │      └── products_mapper.xml
@@ -132,7 +123,7 @@ teamcostco
 │               ├── static
 │               │      ├── css
 │               │      │    ├── common
-│               │      │    │      ├── theme.css
+│               │      │    │      ├── footer.css
 │               │      │    │      ├── .
 │               │      │    │      ├── .
 │               │      │    │      └── header.css
@@ -141,13 +132,13 @@ teamcostco
 │               │      │    │      ├── filter.css
 │               │      │    │      ├── .
 │               │      │    │      ├── .
-│               │      │    │      └── search.css
+│               │      │    │      └── sidebar.css
 │               │      │    │      
 │               │      │    └── contents
-│               │      │           ├── inventory.css
+│               │      │           ├── aboutus.css
 │               │      │           ├── .
 │               │      │           ├── .
-│               │      │           └── notice.css
+│               │      │           └── search.css
 │               │      │    
 │               │      ├── fonts
 │               │      │     └── Material_···.woff2
@@ -170,17 +161,11 @@ teamcostco
 │               │      │    │      ├── .
 │               │      │    │      └── search.js
 │               │      │    │      
-│               │      │    ├── contents
-│               │      │    │      ├── writer.js
-│               │      │    │      ├── .
-│               │      │    │      ├── .
-│               │      │    │      └── fix.js
-│               │      │    │      
-│               │      │    └── tinymce
-│               │      │           ├── icons
+│               │      │    └── contents
+│               │      │           ├── intro.js
 │               │      │           ├── .
 │               │      │           ├── .
-│               │      │           └── skins
+│               │      │           └── wishlist.js
 │               │      │    
 │               │      └── favicon.ico
 │               │
@@ -191,7 +176,6 @@ teamcostco
 │               │      └── index.html
 │               │
 │               ├── application.properties
-│               ├── ezen-project···.json
 │               ├── log4jdbc.log4j2.properties
 │               ├── logback-spring.xml
 │               ├── mybatis-config.xml
@@ -211,68 +195,68 @@ teamcostco
 
 ### 📊강동윤
 - **UI**
-  - 페이지: 상품발주, 배송 현황
-  - 공통 컴포넌트: 테이블, 필터
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 네이버 API연동 검색 기능 구현, 발주 기능 구현, 배송 현황 정보 서버 연결과 구현
+  - 
 
 ### ✏️김동민
 - **UI**
-  - 페이지: 재고관리, 재고관리 상세
-  - 공통 컴포넌트: 네비게이터
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 박스 / 테이블 내의 정보 서버 연결과 구현, 재고 수정 과 저장 기능 구현
+  - 
 
 ### 🗂️주형돈
 - **UI**
-  - 페이지: 다크모드
-  - 공통 컴포넌트: 검색창
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 전체 페이지 다크모드 활성화, 비활성화 구현
+  - 
 
 ### 🔍김동우
 - **UI**
-  - 페이지: 직원관리 상세, 로그인
+  - 페이지:
+  - 공통 컴포넌트: 
 - **기능**
-  - tiny MCE에디터 api 연동 글 작성, 수정, 삭제 기능 구현, 직원 정보 수정 기능 구현
+  - 
 - **DB 관리**
   - 각종 테이블, 컬럼, 제약 조건 등 전반적인 DB 정보 관리
 
 ### 🌫️황지영
 - **UI**
-  - 페이지: 판매내역 상세
-  - 공통 컴포넌트: 인포박스
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 박스 / 테이블 내의 정보 서버 연결과 구현 
+  - 
  
 ### 🗒️전상민
 - **UI**
-  - 페이지: 회원가입, 직원관리, 공지사항
-  - 공통 컴포넌트: 카카오 API연동(주소 찾기)
-  - 로고 디자인
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 인적사항, 주소, 중복 확인 등 유효성 검사와 서버 연결 작업, id, pw 찾기 이메일 서비스, 
+  - 
 
 ### 🤝이신비
 - **UI**
-  - 페이지: 발주관리, 발주관리 상세
-  - 공통 컴포넌트: 페이지네이션 기능&버튼
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 박스 / 테이블 내의 정보 서버 연결과 구현, 발주 처리 기능 구현
+  - 
 
 ### 💼오혜준
 - **UI**
-  - 페이지: 판매내역
-  - 공통 컴포넌트: 인포박스
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 박스 / 테이블 내의 정보 서버 연결과 구현
+  - 
 
 ### 📅김민수
 - **UI**
-  - 페이지: 대시보드, 불량재고
-  - 공통 컴포넌트: 헤더
+  - 페이지: 
+  - 공통 컴포넌트: 
 - **기능**
-  - 차트 기능 구현, 박스 / 테이블 내의 정보 서버 연결과 구현
+  - 
 
 ## 5. 개발 기간 및 작업 관리
 
