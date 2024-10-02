@@ -269,132 +269,79 @@ teamcostco
 
 ## 6. 페이지별 기능 
 
+## 메인 페이지
+
+### [메인] 
+
+- 사용자의 한눈에 모든 기능이 들어오게끔 하여 사용자의 편의성을 높였습니다.
+
+| 메인 |
+|--------|
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/1_%EB%A9%94%EC%9D%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true" width="850" height="600"/> |
+
+## About Us 페이지
+
+### [페이지 소개] 
+
+- 사용자가 사이트의 이해도를 높이기 위한 페이지로서 가볍게 이용할 수 있는 페이지입니다.
+
+| 페이지 소개 |
+|--------|
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/2_About%20Us.gif?raw=true" width="850" height="600"/> |
+
+
 ## 로그인 페이지
 
 ### [로그인] 
 
-- 아이디와 비밀번호를 입력하면 유효성 검사가 진행되고 통과한 경우 로그인에 성공합니다.
+- 카카오로그인 API를 사용함으로서 사용자의 편의성을 증가시키고 로그인을 단순화 시켰습니다.
 
 | 로그인 |
 |--------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/1_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/3_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
 
-## 대시보드 페이지
+## 배송지 관리 페이지
 
-### [대시보드]
-- 사용자가 기간별 판매 금액, 최다 판매 제품, 판매 대비 재고 비율, 최다 발주 제품 등 많은 정보들을 한눈에 파악할 수 있습니다.
-- 필요한 정보들을 1주, 1개월, 1년 단위로 확인할 수 있어 더욱 정보를 확인하기 쉽습니다.
+### [배송지 관리]
+- 사용자가 손 쉽게 배송지를 추가, 삭제 가능하며 카카오주소 API를 활용하여 사용자의 편의성을 증가시켰습니다.
 
-| 정보 확인 |
+| 배송지 관리 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/2_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/4_%EB%B0%B0%EC%86%A1%EC%A7%80%20%EA%B4%80%EB%A6%AC.gif?raw=true" width="850" height="600"/> |
 
-## 재고 관리 페이지
+## 상품 관련 페이지
 
-### [필터]
-- 상품코드, 매입가격, 판매가격, 대분류 등
-  사용자가 원하는 검색옵션을 지정해 필터를 걸어줄 수 있습니다.
-- 필터 적용 후 검색 시 지정된 검색 옵션에 맞는 값이 표시 됩니다.
+### [상품 검색, 정보 확인]
+- 쉽고 빠르게 검색이 가능하며 직관적인 UI로 빠른 상품 검색과 정보 확인이 가능합니다.
 
-| 필터 |
+| 상품 검색, 정보 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/3_%EC%9E%AC%EA%B3%A0%20%EA%B4%80%EB%A6%AC%20%ED%95%84%ED%84%B0%20%EC%A0%81%EC%9A%A9.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/5_%EC%83%81%ED%92%88%20%EA%B2%80%EC%83%89,%20%EC%A0%95%EB%B3%B4%20%ED%99%95%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
 
-### [재고 정보 수정]
-- 사용자가 원하는 재고의 제품명, 제품 분류, 브랜드, 구매 / 판매가, 할인율 등을
-  수정할 수 있습니다.
-- 정보 수정 후 저장 시 실시간으로 수정이 반영됩니다.
+### [상품 찜하기, 찜 목록 확인]
+- 사용자의 편의성을 위해 찜 기능을 추가하였으며 편리하게 찜 목록 확인이 가능합니다.
 
-| 재고 정보 수정 |
+| 상품 찜하기, 찜 목록 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/4_%EC%9E%AC%EA%B3%A0%20%EC%83%81%EC%84%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/6_%EC%83%81%ED%92%88%20%EC%B0%9C%ED%95%98%EA%B8%B0,%20%EC%B0%9C%20%EB%AA%A9%EB%A1%9D%20%ED%99%95%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
 
-## 상품 발주 페이지
+### [장바구니 추가, 장바구니 확인]
+- 사용자의 편의성을 위해 장바구니 기능을 추가하였으며 편리하게 장바구니 목록 확인이 가능합니다.-
 
-### [상품 발주]
-- 사용자 원하는 제품명을 검색 시 상품의 이미지, 코드, 품명, 가격, 판매처 등과 함께 검색 결과가 나옵니다.
-- 상품 선택과 발주수량 입력 후 발주요청 버튼 클릭 시 간단하게 상품 발주가 완료 됩니다. 
-
-| 상품 발주 |
+| 장바구니 추가, 장바구니 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/5_%EC%83%81%ED%92%88%20%EB%B0%9C%EC%A3%BC.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/7_%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%20%EC%B6%94%EA%B0%80,%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%20%ED%99%95%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
 
-## 발주 관리 페이지
+### [주문, 결제하기]
+- 쉽고 빠른 시스템으로 주문, 결제가 한번에 가능하며 사용자의 사이트 이용 시간을 단축하였습니다.
 
-### [발주 관리]
-- 사용자가 손쉽게 발주된 제품을 불량 재고로 옮기거나 발주 완료 처리를 할 수 있습니다. 
-- 원하는 제품의 정보 탭에서 발주 처리 버튼 클릭시 간단하게 발주 완료 처리가 됩니다.
-
-| 발주 관리 |
+| 주문, 결제하기 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/6_%EB%B0%9C%EC%A3%BC%20%EC%B2%98%EB%A6%AC.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/8_%EC%A3%BC%EB%AC%B8,%20%EA%B2%B0%EC%A0%9C%ED%95%98%EA%B8%B0.gif?raw=true" width="850" height="600"/> |
 
-### [발주 관리 필터]
-- 판매처, 주문번호, 주문날짜, 상태, 직원이름 등
-  사용자가 원하는 검색옵션을 지정해 필터를 걸어줄 수 있습니다.
-- 필터 적용 후 검색 시 지정된 검색 옵션에 맞는 값이 표시 됩니다.
+### [주문 내역 확인]
+- 사용자가 간편하게 주문 내역을 확인 가능하도록 직관적인 디자인을 하였습니다.
 
-| 발주 관리 필터 |
+| 주문 내역 확인 |
 |------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/7_%EB%B0%9C%EC%A3%BC%20%EA%B4%80%EB%A6%AC%20%ED%95%84%ED%84%B0%20%EC%A0%81%EC%9A%A9.gif?raw=true" width="850" height="600"/> |
-
-## 불량 재고 페이지
-
-### [불량 재고 확인]
-- 사용자의 검수 후 불량 재고로 이동 된 재고들을 확인할 수 있습니다.
-- 재고ID, 상품명, 수량, 불량 사유, 날짜등을 확인할 수 있습니다.
-
-| 불량 재고 확인 |
-|------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/8_%EB%B6%88%EB%9F%89%20%EC%9E%AC%EA%B3%A0%20%ED%99%95%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
-
-## 배송 현황 페이지
-
-### [배송 현황 확인]
-- 사용자가 편리하게 배송 현황을 확인할 수 있습니다.
-- 구매자, 주소, 인적사항, 배송상태, 판매날짜 등을 확인할 수 있습니다.
-
-| 배송 현황 확인 |
-|------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/9_%EB%B0%B0%EC%86%A1%20%ED%98%84%ED%99%A9%20%ED%99%95%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
-
-## 판매 내역 페이지
-
-### [판매 내역 확인]
-- 사용자가 편리하게 판매 내역을 확인할 수 있습니다.
-- 상품명, 판매 수량, 총 가격, 판매 날짜 등을 확인할 수 있습니다.
-
-| 판매 내역 확인 |
-|------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/10_%ED%8C%90%EB%A7%A4%20%EB%82%B4%EC%97%AD%20%ED%99%95%EC%9D%B8.gif?raw=true" width="850" height="600"/> |
-
-## 직원 관리 페이지
-
-### [직원 정보 수정]
-- 사용자가 직원의 정보를 쉽게 수정할 수 있습니다.
-- 이메일, 전화번호, ID, PW, 직책, 성별, 인적사항, 주소등을 수정할 수 있습니다.
-
-| 직원 정보 수정 |
-|------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/11_%EC%A7%81%EC%9B%90%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95.gif?raw=true" width="850" height="600"/> |
-
-## 공지사항 페이지
-
-### [공지사항 글 수정]
-- 사용자가 게시판의 글을 편리하게 수정할 수 있습니다.
-- 글꼴, 폰트 사이즈, 스타일 등을 쉽게 변경 가능하며 다양한 글 작성이 가능합니다. 
-
-| 공지사항 글 수정 |
-|------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/12_%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD%20%EA%B8%80%20%EC%88%98%EC%A0%95.gif?raw=true" width="850" height="600"/> |
-
-## 다크모드
-
-### [다크모드 전환]
-- 사용자가 다크 모드로 쉽게 전환할 수 있는 기능입니다.
-- 버튼 동작으로 다크모드, 기본모드로 빠르게 전환이 되며 
-  사용자의 취향에 맞춰 사용 가능합니다.
-
-| 다크모드 전환 |
-|------|
-| <img src="https://github.com/gopo543/ReadmeTEest/blob/main/readme_image/13_%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C%20%EC%A0%84%ED%99%98.gif?raw=true" width="850" height="600"/> |
+| <img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/9_%EC%A3%BC%EB%AC%B8%20%EB%82%B4%EC%97%AD.gif?raw=true" width="850" height="600"/> |
