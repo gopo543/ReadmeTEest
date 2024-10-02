@@ -28,7 +28,6 @@
 - Back-end : Java, Spring Boot, Naver API, Google Pub/Sub API, Oracle SQL Developer
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 :  Slack, Notion, Figma
-- 서비스 배포 환경 :
 
 ## 2. 채택한 개발 기술과 전략
 
@@ -271,7 +270,7 @@ teamcostco
 ## 5. 개발 기간 및 작업 관리
 
 ### 개발 기간
-- 전체 개발 기간: 2024-08-19 ~ 2024-10-..
+- 전체 개발 기간: 2024-08-19 ~ 2024-10-02
 
 ### 작업 관리
 - Slack, 노션을 사용하여 진행 상황을 공유했습니다. 
