@@ -16,7 +16,7 @@
 
 | 강동윤 | 김동민 | 주형돈 | 김동우 | 황지영| 
 |:------:|:------:|:------:|:------:|:------:|
-| <img src="https://avatars.githubusercontent.com/u/173039221?v=4" width="50" height="50"/> <br> [@KangDY26](https://github.com/KangDY26) | <img src="https://avatars.githubusercontent.com/u/173039024?v=4" width="50" height="50"/> <br> [@uiwoowP](https://github.com/uiwoowP) | <img src="https://avatars.githubusercontent.com/u/173039030?v=4" width="50" height="50"/> <br> [@hdjoo0820](https://github.com/hdjoo0820) | <img src="https://avatars.githubusercontent.com/u/173039738?v=4" width="50" height="50"/> <br> [@DukkyRacoon](https://github.com/DukkyRacoon) | <img src="https://avatars.githubusercontent.com/u/82192951?s=48&v=4" width="50" height="50"/> <br> [jiyoungoss](https://github.com/jicongjy/jiyoungoss)
+| <img src="https://avatars.githubusercontent.com/u/173039221?v=4" width="50" height="50"/> <br> [@KangDY26](https://github.com/KangDY26) | <img src="https://avatars.githubusercontent.com/u/173039024?v=4" width="50" height="50"/> <br> [@uiwoowP](https://github.com/uiwoowP) | <img src="https://avatars.githubusercontent.com/u/173039030?v=4" width="50" height="50"/> <br> [@hdjoo0820](https://github.com/hdjoo0820) | <img src="https://avatars.githubusercontent.com/u/173039738?v=4" width="50" height="50"/> <br> [@DukkyRacoon](https://github.com/DukkyRacoon) | <img src="https://avatars.githubusercontent.com/u/82192951?s=48&v=4" width="50" height="50"/> <br> [@jiyoungoss](https://github.com/jicongjy/jiyoungoss)
 
 | 전상민 | 이신비 | 오혜준 | 김민수 |
 |:------:|:------:|:------:|:------:|
