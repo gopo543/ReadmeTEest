@@ -14,9 +14,9 @@
 
 ## 팀원 구성
 
-| 강동윤 | 김동민 | 주형돈 | 김동우 |
-|:------:|:------:|:------:|:------:|
-| <img src="https://avatars.githubusercontent.com/u/173039221?v=4" width="50" height="50"/> <br> [@KangDY26](https://github.com/KangDY26) | <img src="https://avatars.githubusercontent.com/u/173039024?v=4" width="50" height="50"/> <br> [@uiwoowP](https://github.com/uiwoowP) | <img src="https://avatars.githubusercontent.com/u/173039030?v=4" width="50" height="50"/> <br> [@hdjoo0820](https://github.com/hdjoo0820) | <img src="https://avatars.githubusercontent.com/u/173039738?v=4" width="50" height="50"/> <br> [@DukkyRacoon](https://github.com/DukkyRacoon) |
+| 강동윤 | 김동민 | 주형돈 | 김동우 | 황지영| 
+|:------:|:------:|:------:|:------:|:------:|
+| <img src="https://avatars.githubusercontent.com/u/173039221?v=4" width="50" height="50"/> <br> [@KangDY26](https://github.com/KangDY26) | <img src="https://avatars.githubusercontent.com/u/173039024?v=4" width="50" height="50"/> <br> [@uiwoowP](https://github.com/uiwoowP) | <img src="https://avatars.githubusercontent.com/u/173039030?v=4" width="50" height="50"/> <br> [@hdjoo0820](https://github.com/hdjoo0820) | <img src="https://avatars.githubusercontent.com/u/173039738?v=4" width="50" height="50"/> <br> [@DukkyRacoon](https://github.com/DukkyRacoon) | <img src="https://avatars.githubusercontent.com/u/82192951?s=48&v=4" width="50" height="50"/> <br> [jiyoungoss](https://github.com/jicongjy/jiyoungoss)
 
 | 전상민 | 이신비 | 오혜준 | 김민수 |
 |:------:|:------:|:------:|:------:|
@@ -236,7 +236,14 @@ teamcostco
 - **기능**
   - tiny MCE에디터 api 연동 글 작성, 수정, 삭제 기능 구현, 직원 정보 수정 기능 구현
 - **DB 관리**
-  - 각종 테이블, 컬럼, 제약 조건 등 전반적인 DB 정보 관리  
+  - 각종 테이블, 컬럼, 제약 조건 등 전반적인 DB 정보 관리
+
+### 🌫️황지영
+- **UI**
+  - 페이지: 판매내역 상세
+  - 공통 컴포넌트: 인포박스
+- **기능**
+  - 박스 / 테이블 내의 정보 서버 연결과 구현 
  
 ### 🗒️전상민
 - **UI**
@@ -255,7 +262,7 @@ teamcostco
 
 ### 💼오혜준
 - **UI**
-  - 페이지: 판매내역, 판매 내역 상세
+  - 페이지: 판매내역
   - 공통 컴포넌트: 인포박스
 - **기능**
   - 박스 / 테이블 내의 정보 서버 연결과 구현
