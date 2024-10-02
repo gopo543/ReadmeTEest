@@ -43,7 +43,7 @@
   - 안정적이고 확장 가능한 서버 사이드 애플리케이션 개발을 위해 선택했습니다.
   - RESTful API를 통해 클라이언트와의 효율적인 데이터 통신을 구현했습니다.
 
-- **Naver API, Google Pub/Sub API, KaKao API, tiny MCE Editer API **
+- **Naver API, Google Pub/Sub API, KaKao API, tiny MCE Editer API**
   - 외부 서비스와의 연동을 통해 기능을 확장했습니다.
   - 데이터 전송 및 메시징 서비스를 구현하여 시스템 간 통신을 원활히 했습니다.
 
