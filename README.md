@@ -1,6 +1,6 @@
-# 📦 TeamCostco SYSTEM README
+# 🛒 TeamCostco Mall README
 
-<img src="https://raw.githubusercontent.com/gopo543/ReadmeTEest/refs/heads/main/readme_image/DALL%C2%B7E%202024-10-02%2010.47.11%20-%20A%20simple%20yet%20elegant%20image%20representing%20a%20logistics%20management%20program.%20Use%20minimalistic%20symbols%20such%20as%20a%20location%20pin%2C%20stacked%20boxes%2C%20and%20a%20delivery.webp" width="500" height="500"/> 
+<img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/card_1379_1.jpg?raw=true" width="500" height="500"/> 
 
 - 배포 URL : http://15.165.19.189
 - Test ID : test  
