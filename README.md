@@ -1,16 +1,14 @@
 # 🛒 TeamCostco Mall README
 
-<img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/card_1379_1.jpg?raw=true" width="500" height="500"/> 
+<img src="https://github.com/gopo543/ReadmeTEest/blob/mall/image/card_1379_1.jpg?raw=true" width="700" height="500"/> 
 
-- 배포 URL : http://15.165.19.189
-- Test ID : test  
-- Test PW : 1234
+- 배포 URL : [http://15.165.19.189](http://ezentwix.xyz)
 
 ## 프로젝트 소개
 
-- Costco의 물류 프로세스를 혁신하고 효율성을 극대화하기 위한 종합적인 관리 시스템 개발 프로젝트
-- 실시간 재고관리부터 주문 처리, 데이터 분석, 창고 관리, 간편 발주까지 가능한 시스템
-- 운영 비용 절감과 주문 처리시간 단축, 재고 회전율 개선이 가능한 시스템
+- Costco의 물류 프로세스를 혁신하고 효율성을 극대화하기 위한 종합적인 관리 시스템의 쇼핑몰 개발 프로젝트
+- 실시간 주문과 사용자의 편의를 위한 찜 목록, 장바구니, 주소지 설정까지 모두 간단하게 가능한 쇼핑몰
+- 직관적이며 간단한 ui로 사용자의 쇼핑 시간 단축이 가능하며 남녀노소 사용가능한 쇼핑몰
 
 ## 팀원 구성
 
@@ -25,7 +23,7 @@
 ## 1. 개발 환경
 
 - Front-end : HTML, CSS, JavaScript
-- Back-end : Java, Spring Boot, Naver API, Google Pub/Sub API, Oracle SQL Developer
+- Back-end : Java, Spring Boot, Oracle SQL Developer
 - 버전 및 이슈관리 : Github, Github Issues, Github Project
 - 협업 툴 :  Slack, Notion, Figma
 
